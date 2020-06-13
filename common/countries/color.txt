@@ -1,0 +1,4 @@
+REM = {
+  color = rgb { 148 16 96 }
+  color_ui = rgb { 296 32 192 }
+}
