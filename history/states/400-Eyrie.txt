@@ -1,0 +1,17 @@
+state={
+	id=400
+	name="STATE_400"
+	state_category = large_town
+	provinces={
+		1504 1697 1837 1971 3695 3753 4782 4842 7802 7863 10735 10866 10898 11629 12523 12792
+	}
+	history = {
+		owner = PYR
+		add_core_of = PYR
+		victory_points = { 1697 5 }
+		victory_points = { 3753 4 }
+		}
+	}
+	manpower=567004
+	buildings_max_level_factor=1.000
+}

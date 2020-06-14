@@ -1,0 +1,16 @@
+state={
+	id=663
+	name="STATE_663"
+	provinces={
+		10398
+	}
+	state_category=small_island
+	history={
+		owner = THE
+		add_core_of = THE
+		set_state_flag = brodfeld_city
+
+	}
+	manpower=45678
+	buildings_max_level_factor=1.000
+}
