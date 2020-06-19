@@ -1110,3 +1110,7 @@ REM_Subject = {
   color = rgb { 148 16 96 }
   color_ui = rgb { 148 16 96 }
 }
+TOJ_Member = { #Modded
+	color = rgb { 190 64 46 }
+	color_ui = rgb { 190 64 46 }
+}

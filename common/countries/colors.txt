@@ -331,15 +331,35 @@ FAW = {
 	color = rgb { 104 107 156 }
 	color_ui = rgb { 104 107 156 }
 }
+OSL = { #Modded
+	color = rgb { 40 168 43 }
+	color_ui = rgb { 40 168 43 }
+}
+BRS = { #Modded
+	color = rgb { 31 191 164 }
+	color_ui = rgb { 31 191 164 }
+}
+SYD = { #Modded
+	color = rgb { 50 143 55 } 	
+	color_ui = rgb { 50 143 55 }
+}
 VED = {
 	color = rgb { 87 164 113 }
 	color_ui = rgb { 87 164 113 }
+}
+TRN = { #Modded
+	color = rgb { 151 83 83 }
+	color_ui = rgb { 151 83 83 }
+}
+GCA = { #Modded
+	color = rgb { 98 177 39 }
+	color_ui = rgb { 98 177 39 }
 }
 EQC = {
 	color = rgb { 47 158 99 }
 	color_ui = rgb { 0 132 61 }
 }
-THE = {
+THE = { #Modded
 	color = rgb { 143 74 185 }
 	color_ui = rgb { 143 74 185 }
 }
@@ -351,9 +371,17 @@ MNE = { #Modded
 	color = rgb { 47 155 155}
 	color_ui = rgb { 47 155 155 }
 }
+CIA = { #Modded
+	color = rgb { 204 110 166 }
+	color_ui = rgb { 204 110 166 }
+}
 SIC = {
 	color = rgb { 209 73 108 }
 	color_ui = rgb { 209 73 108 }
+}
+PUN = {
+	color = rgb { 180 123 61 }
+	color_ui = rgb { 180 123 61 }
 }
 WNG = {
 	color = rgb { 151 110 255 }
@@ -382,6 +410,10 @@ ERI = {
 AVI = {
 	color = rgb { 83 122 181 }
 	color_ui = rgb { 83 122 181 }
+}
+GAL = { #Modded
+	color = rgb { 196 242 132 }
+	color_ui = rgb { 196 242 132 }
 }
 JER = {
 	color = rgb { 152 60 85 }
@@ -511,6 +543,10 @@ TAL = {
 	color = rgb { 237 115 158 }
 	color_ui = rgb { 237 115 158 }
 }
+RVS = { #Modded
+	color = rgb { 158 150 150 }
+	color_ui = rgb { 158 150 150 }
+}
 LNS = {
 	color = rgb { 203 193 202 }
 	color_ui = rgb { 203 193 202 }
@@ -526,6 +562,14 @@ ARA = {
 LUS = {
 	color = rgb { 190 226 172 }
 	color_ui = rgb { 190 226 172 }
+}
+ARC = { #Modded
+	color = rgb { 232 211 23 }
+	color_ui = rgb { 232 211 23 }
+}
+IPA = { #Modded
+	color = rgb { 221 211 162 }
+	color_ui = rgb { 221 211 162 }
 }
 FIR = {
 	color = rgb { 62 97 88 }
@@ -551,6 +595,42 @@ FBK = {
 	color = rgb { 134 137 213 }
 	color_ui = rgb { 134 137 213 }
 }
+PYH = { #Modded
+	color = rgb { 191 98 173 }
+	color_ui = rgb { 191 98 173 }
+}
+RMI = { #Modded
+	color = rgb { 151 186 74 }
+	color_ui = rgb { 151 186 74 }
+}
+KAV = { #Modded
+	color = rgb { 204 212 66 }
+	color_ui = rgb { 204 212 66 }
+}
+SMF = { #Modded
+	color = rgb { 191 168 98 }
+	color_ui = rgb { 191 168 98 }
+}
+AEG = { #Modded
+	color = rgb { 151 204 162 }
+	color_ui = rgb { 151 204 162 }
+}
+TLV = { #Modded
+	color = rgb { 150 227 204 }
+	color_ui = rgb { 150 227 204 }
+}
+GWL = { #Modded
+	color = rgb { 230 101 101 }
+	color_ui = rgb { 230 101 101 }
+}
+ACU = { #Modded
+	color = rgb { 168 84 84 }
+	color_ui = rgb { 168 84 84 }
+}
+LIF = { #Modded
+	color = rgb { 217 97 46 }
+	color_ui = rgb { 217 97 46 }
+}
 GRU = {
 	color = rgb { 80 135 121 }
 	color_ui = rgb { 80 135 121 }
@@ -558,6 +638,10 @@ GRU = {
 SRS = {
 	color = rgb { 231 174 158 }
 	color_ui = rgb { 92 89 79 }
+}
+HIB = {
+	color = rgb { 174 140 94 }
+	color_ui = rgb { 174 140 94 }
 }
 NTR = {
 	color = rgb { 179 174 158 }
@@ -682,4 +766,40 @@ ELF = {
 NCR = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
+}
+JZR = { #Modded
+	color = rgb { 153 116 93 }
+	color_ui = rgb { 199 151 121 }
+}
+PNE = { #Modded
+	color = rgb { 234 147 30 }
+	color_ui = rgb { 234 147 30 }
+}
+SFU = { #Modded
+	color = rgb { 163 16 92 }
+	color_ui = rgb { 163 16 92 }
+}
+GRK = { #Modded
+	color = rgb { 112 130 55 }
+	color_ui = rgb { 112 130 55 }
+}
+SWL = { #Modded
+	color = rgb { 114 49 149 }
+	color_ui = rgb { 199 151 121 }
+}
+BBK = { #Modded
+	color = rgb { 135 177 96 }
+	color_ui = rgb { 135 177 96 }
+}
+DMR = { #Modded
+	color = rgb { 56 174 199 }
+	color_ui = rgb { 56 174 199 }
+}
+KUR = { #Modded
+	color = rgb { 40 164 78 }
+	color_ui = rgb { 40 164 78 }
+}
+OCU = { #Modded
+	color = rgb { 190 64 46 }
+	color_ui = rgb { 190 64 46 }
 }
