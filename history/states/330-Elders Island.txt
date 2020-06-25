@@ -1,0 +1,14 @@
+state={
+	id=330
+	name="state_330"
+	provinces={
+		1198
+	}
+	manpower=1747
+	state_category = small_island
+	history = {
+		owner = CRV
+		add_core_of = CRV
+	}
+	buildings_max_level_factor=1.000
+}

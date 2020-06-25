@@ -1,0 +1,21 @@
+state={
+	id=145
+	name="STATE_145"
+	state_category = rural
+	resources={
+		CRSstals = 5
+	}
+	history={
+		owner = CRS
+		add_core_of = CRS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		3325 3341 6066 6389 9038 9083 9435 11065 11126 11409
+	}
+	manpower=30550
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=285
+	name="STATE_285"
+	provinces={
+		4432 11059 11191
+	}
+	manpower=287824
+	history={
+		owner = ARK
+		add_core_of = ARK
+		victory_points = {
+			11191 3
+		}
+        buildings = {
+			infrastructure = 1
+		}
+	}
+
+	state_category = rural
+	buildings_max_level_factor=1.000
+}
